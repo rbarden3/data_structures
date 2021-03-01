@@ -1,2 +1,2 @@
 # data_structures
- Assignments from KSU Datastructures course
+ Assignments from Data Structures course
